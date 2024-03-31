@@ -8,7 +8,7 @@ Full Stack webApp "RentAnything!" where you can rent almost anything from bicycl
 
 ## You can search a vehicle by it's name
 
-![](assets/2024-03-31-14-11-59-image.png)
+![](assets/2024-03-31-14-15-21-image.png)
 
 ## Or you can browse vehicles from Vehicle Category
 
@@ -22,11 +22,11 @@ Full Stack webApp "RentAnything!" where you can rent almost anything from bicycl
 
 ![](assets/2024-03-31-13-19-57-image.png)
 
-## Number of Days for Rent and proceed
+## Select total Number of Days for Rent and proceed
 
 ![](assets/2024-03-31-14-09-26-image.png)
 
-# Rent Address and other info
+# Fill up the Rent Address and other info
 
 ![](assets/2024-03-31-14-10-20-image.png)
 
